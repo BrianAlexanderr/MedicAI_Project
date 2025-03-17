@@ -1,3 +1,12 @@
+# Flutter Installation and Guide
+follow this link to install flutter on your own device:
+<br>
+https://youtu.be/asNdz10WR6w?si=Q30doDQZhPSYX-ej
+<br>
+(Optional) If you wanted to run the flutter project on your phone you can follow the links:
+<br>
+https://youtu.be/aohkII1C4JY?si=opwu1b9Ewf19fQOw
+<br><br>
 # 🚀 Contributing to This Project
 If you're collaborating on this project, follow these steps to pull, add, commit, and push changes correctly.
 
